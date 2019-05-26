@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.domain.skeleton.auth">
+
+    <application tools:ignore="AllowBackup,GoogleAppIndexingWarning,MissingApplicationIcon">
+
+        <!-- Activity: Auth -->
+        <activity android:name=".activity.AuthActivity" />
+
+        <!-- Activity: Auth -->
+        <activity-alias
+            android:name=".internal.activity.AuthActivity"
+            android:exported="false"
+            android:targetActivity=".activity.AuthActivity">
+
+            <intent-filter>
+                <action android:name="auth_root" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias>
+    </application>
+</manifest>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- VIEW -->
+    <declare-styleable name="View">
+        <attr name="contentPadding" format="dimension" />
+    </declare-styleable>
+</resources>

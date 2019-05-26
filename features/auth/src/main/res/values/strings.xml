@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MESSAGES -->
+    <string name="msg_signin_skip">Skip</string>
+    <string name="msg_privacy_policy">By proceeding, you agree to the <u>terms</u> and <u>privacy</u> policies.</string>
+</resources>

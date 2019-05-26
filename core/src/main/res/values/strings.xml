@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skeleton</string>
+    <string name="app_privacy_policy_url">https://www.google.com</string>
+
+    <!-- API -->
+    <string name="api_facebook_app_id">APP_ID</string>
+    <string name="api_facebook_login_protocol_scheme">LOGIN_PROTOCOL_SCHEME</string>
+
+    <!-- LABELS -->
+    <string name="lbl_auth_logout">Logout</string>
+
+    <!-- INPUT -->
+    <string name="entry_no_data">-</string>
+
+    <!-- MENU -->
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+
+    <!-- Messages -->
+    <string name="msg_unauthorized">You must be logged</string>
+    <string name="msg_connected">Connected</string>
+    <string name="msg_disconnected">You are offline</string>
+    <string name="msg_tap_to_retry">Tap to retry</string>
+    <string name="msg_tap_to_login">Tap to login</string>
+
+    <!-- Errors -->
+    <string name="err_unknown">An unknown error has occurred</string>
+    <string name="err_connection_fail">Connection fail</string>
+    <string name="err_no_connection">No connection</string>
+    <string name="err_server">Server error</string>
+    <string name="err_cloud_sync">Sync error</string>
+    <string name="err_social_facebook">Facebook connection error</string>
+    <string name="err_social_google">Google connection error</string>
+
+    <!-- Social Login -->
+    <string name="social_login_facebook">Continue with Facebook</string>
+    <string name="social_login_google">Continue with Google</string>
+</resources>

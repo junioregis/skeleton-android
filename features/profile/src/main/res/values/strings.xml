@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- LABELS -->
+    <string name="lbl_profile_name">Name</string>
+    <string name="lbl_profile_age">Age</string>
+
+    <!-- INPUT -->
+    <string name="entry_profile_age">%1$d years</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base -->
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Social Login -->
+    <color name="colorFacebookBackground">@color/com_facebook_blue</color>
+    <color name="colorGoogleBackground">#db3236</color>
+</resources>
