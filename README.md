@@ -179,7 +179,7 @@ Navigator.nav(NavController, Int, Bundle)
 
 # Default Layouts
 
-By default, views are included in the ```@id/content``` container of the base layout.
+By default, views are included in the ```content``` container of the base layout.
 
 ### Activities:
 
@@ -368,7 +368,7 @@ Paste Hash Key:
 git clone https://github.com/junioregis/skeleton-rails.git
 ```
 
-### 2.2. Follow de Steps from the Wiki
+### 2.2. Follow the steps from the Wiki
 
 ```https://github.com/junioregis/skeleton-rails/wiki```
 
