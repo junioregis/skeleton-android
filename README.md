@@ -143,6 +143,10 @@ API responds with envelope:
 }
 ```
 
+# Repositories
+
+Writing...
+
 # Exceptions
 
 - ```AuthException``` for authentication errors.
@@ -267,7 +271,7 @@ To create a layout for a fragment:
 
 # Default Views
 
-All default app views are injected to all activities and fragments and are access by ```appViewws``` attribute.
+All default app views are injected to all activities and fragments and are access by ```appViews``` attribute.
 
 - ```ToolbarView``` is the default toolbar view.
 

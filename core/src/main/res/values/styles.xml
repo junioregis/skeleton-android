@@ -14,16 +14,4 @@
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
-
-    <!-- SheetView:Start -->
-    <style name="SheetView" parent="BaseSheetView"/>
-
-    <style name="SheetView.Header" parent="BaseSheetView.Header"/>
-
-    <style name="SheetView.Header.Title" parent="BaseSheetView.Header.Title"/>
-
-    <style name="SheetView.Row" parent="BaseSheetView.Row"/>
-
-    <style name="SheetView.Col" parent="BaseSheetView.Col"/>
-    <!-- SheetView:End -->
 </resources>
